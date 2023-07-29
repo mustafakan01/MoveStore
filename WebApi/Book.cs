@@ -1,6 +1,6 @@
 using System;
 
-namespace Book
+namespace WebApi
 {
      public class Book
     {
