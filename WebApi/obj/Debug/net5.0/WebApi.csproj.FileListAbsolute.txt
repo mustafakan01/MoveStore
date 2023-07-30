@@ -19,15 +19,11 @@ D:\git\MoveStore\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.
 D:\git\MoveStore\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
 D:\git\MoveStore\WebApi\obj\Debug\net5.0\scopedcss\bundle\WebApi.styles.css
 D:\git\MoveStore\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
-D:\git\MoveStore\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.Pack.cache
-D:\git\MoveStore\WebApi\obj\Debug\net5.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
-D:\git\MoveStore\WebApi\obj\Debug\net5.0\staticwebassets\msbuild.build.WebApi.props
-D:\git\MoveStore\WebApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
-D:\git\MoveStore\WebApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebApi.props
 D:\git\MoveStore\WebApi\obj\Debug\net5.0\WebApi.RazorTargetAssemblyInfo.cache
 D:\git\MoveStore\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
 D:\git\MoveStore\WebApi\obj\Debug\net5.0\WebApi.dll
-D:\git\MoveStore\WebApi\obj\Debug\net5.0\refint\WebApi.dll
 D:\git\MoveStore\WebApi\obj\Debug\net5.0\WebApi.pdb
 D:\git\MoveStore\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
 D:\git\MoveStore\WebApi\obj\Debug\net5.0\ref\WebApi.dll
+D:\git\MoveStore\WebApi\bin\Debug\net5.0\ref\WebApi.dll
+D:\git\MoveStore\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.xml
