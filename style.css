@@ -1,0 +1,20 @@
+/* !base css start */
+*{
+    margin: 0;
+}
+body{
+    height: 100vh;
+}
+/* !base css end */
+
+.navbar{
+    background-color: black;
+    height: 60px;
+    color: white;
+}
+.sidebar{
+    background-color: black;
+    width: 50px;
+    height: 100%;
+    color: white;
+}
