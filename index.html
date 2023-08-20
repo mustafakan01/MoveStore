@@ -4,14 +4,77 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Movie</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
+    />
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <!-- Navbar Start -->
     <div class="navbar">
       <div class="navbar-wrapper">
         <div class="logo-wrapper"><h1 class="logo">Logo</h1></div>
+        <div class="menu-container">
+          <ul class="menu-list">
+            <li class="menu-list-item">Ana Sayfa</li>
+            <li class="menu-list-item">Filmler</li>
+            <li class="menu-list-item">Diziler</li>
+            <li class="menu-list-item">Listem</li>
+          </ul>
+        </div>
       </div>
     </div>
-    <div class="sidebar">sidebar</div>
+    <!-- Navbar End -->
+
+    <!-- Siderbar Start -->
+    <div class="sidebar">
+      <i class="bi bi-search"></i>
+      <i class="bi bi-house-door-fill"></i>
+      <i class="bi bi-people-fill"></i>
+      <i class="bi bi-bookmarks-fill"></i>
+      <i class="bi bi-hourglass-top"></i>
+      <i class="bi bi-cart-fill"></i>
+      <i class="bi bi-gear"></i>
+    </div>
+    <!-- Siderbar End -->
+
+    <!-- Featured Start -->
+    <div class="container">
+      <div class="container-wrapper">
+        <div class="featured-content">
+          <img class="featured-title" src="img/spiderman-title.png" alt="" />
+          <p class="featured-desc">
+            "Spider-Man: Far From Home", genç kahraman Peter Parker'ın tatilini
+            Avrupa'da geçirdiği sıradışı bir macerayı anlatıyor. Tatildeyken,
+            beklenmedik bir şekilde ortaya çıkan yeni tehditlerle yüzleşmek
+            zorunda kalan Peter, aynı zamanda örümcek güçlerini ve içgüdülerini
+            anlamaya çalışıyor. Örümcek-adam kimliğini gizli tutma çabası
+            içinde, yeni düşmanlar ve sürpriz müttefiklerle dolu bu yolculuk,
+            Peter'ı kendini aşma ve gerçek kahramanlığın ne anlama geldiğini
+            keşfetme yolunda bir kez daha sınayacak.
+          </p>
+          <div class="featured-buttons">
+            <button class="play-button">
+              <i class="bi bi-play-circle"></i> Oynat
+            </button>
+            <button class="info-button">
+              <i class="bi bi-info-circle"></i>Daha fazla bilgi
+            </button>
+          </div>
+        </div>
+        <div class="movie-list-filter">
+            <select>
+                <option>Aksiyon</option>
+                <option>Animasyon</option>
+                <option>Belgesel</option>
+                <option>Fantastik</option>
+                <option>Komedi</option>               
+            </select>
+        </div>
+      </div>
+    </div>
+
+    <!-- Featured End -->
   </body>
 </html>
