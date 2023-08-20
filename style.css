@@ -31,6 +31,7 @@ body {
   justify-content: space-between;
 }
 .menu-list {
+  padding: 0;
   display: flex;
   list-style: none;
   column-gap: 30px;
@@ -85,7 +86,7 @@ body {
 }
 .featured-desc {
   width: 500px;
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(0, 0, 0, 0.5);
   padding: 10px;
   margin: 30px;
 }
@@ -121,3 +122,16 @@ body {
    padding: 8px 0;
    width: 125px;
 }
+.movie-list-container{
+  margin-left: 70px;
+}
+.movie-list{
+  padding: 0;
+  list-style: none;
+}
+.movie-list-populer{
+  /* color: white; */
+}
+.movie-list-img{
+  width:270px;
+ }
